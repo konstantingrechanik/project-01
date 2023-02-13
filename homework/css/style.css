@@ -1,0 +1,77 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.date {
+    text-align: center;
+    border: 2px solid;
+    background-color: gray;
+    padding: 50px;
+
+}
+.date h1 {
+    font-size: 50px;
+    color: blue;
+}
+
+.date p {
+    font-size: 45px;
+    color: blue;
+}
+
+.work {
+ padding: 50px;
+ border: 2px solid black;
+ text-align: center;
+ background-color: rgb(133, 176, 244);
+}
+
+.work h2 {
+    color: blue;
+    font-size: 50px;
+}
+
+.work p {
+    font-size: 45px;
+    color: blue;
+}
+
+.hobby {
+    border: 2px solid rgb(4, 15, 4);
+    padding: 50px;
+    background-color: rgb(62, 83, 237);
+    text-align: center;
+
+}
+.hobby h2 {
+    color: blue;
+    font-size: 50px;
+
+}
+.hobby p {
+    font-size: 45px;
+    color: blue;
+}
+.dream {
+    background-color: rgb(6, 96, 6);
+    border: 2px solid;
+    padding: 50px;
+    text-align: center;
+}
+.dream h2 {
+    font-size: 50px;
+    color: blue;
+}
+.dream p {
+    font-size: 45px;
+    color: blue;
+}
+
+#foto_img {
+    width: 400px;
+    border: 2px solid;
+    
+}
+
